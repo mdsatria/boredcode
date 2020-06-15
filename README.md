@@ -1,2 +1,0 @@
-# boredcode
-my scribbled code
